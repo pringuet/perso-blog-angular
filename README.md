@@ -1,4 +1,9 @@
-# PersoBlogAngular
+# Développez des applications Web avec Angular - Will Alexander
+
+## Entraînez-vous en créant une application de type blog
+
+#
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
